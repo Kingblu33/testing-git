@@ -1,3 +1,3 @@
 # testing-git
 
-Practicing Git commands in terminal
+Practicing Git commands in terminal.
